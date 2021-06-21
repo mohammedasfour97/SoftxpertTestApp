@@ -1,0 +1,2 @@
+rootProject.name = "Softxpert Test App"
+include ':app'
